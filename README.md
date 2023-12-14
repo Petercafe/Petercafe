@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋  soy Peter / unsimpleQA ✨ </h1> 
 
-<p align="left">
+<p align="left"> <a href="https://www.linkedin.com/in/petercamacho/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
   <a href=target="blank"><img align="center" 
 <a href=target="blank"><img align="center" 
 <a href="https://www.linkedin.com/in/petercamacho/" target="blank"><img align="center" 
